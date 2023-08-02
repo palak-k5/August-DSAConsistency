@@ -13,7 +13,7 @@ The primary goal is to challenge yourself and learn through your own efforts.
 The questions i will cover will be from various topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, searching algorithms, dynamic programming, and more.
 Each day i will update the challenge in the "Challenges" directory of this repository. You can find the questions and my code for each day there.
 
-# Resources Used - 
+Resources Used - 
 LeetCode, Geeksforgeeks and stivers DSA A2Z sheet.
 
 
