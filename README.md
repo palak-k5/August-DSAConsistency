@@ -17,8 +17,10 @@ Resources Used -
 LeetCode, Geeksforgeeks and stivers DSA A2Z sheet.
 
 
-Acknowledgments
+# Acknowledgments
 This challenge was inspired by the need for consistent practice to master data structures and algorithms.
+I accepted this challenge from lalit kumar's August DSA challenge and by 2nd or 3rd september i am supposed to submit the form.
+form link - https://docs.google.com/forms/d/e/1FAIpQLSdElZrkHqSHLma6g88Va2UvF2152p5YINbjFZinpjkTI1GjAQ/viewform 
 
 Happy Coding! 
 
